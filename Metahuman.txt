@@ -1,0 +1,15 @@
+STEP 1 - generate head meshes according to the nature or personality of the character, using meshy or other 3d ai tools
+STEP 2 - create a new metahuman identity usin the 3d head mesh
+STEP 3 - customize the metahuman as needed
+
+
+FOR CLOTHING
+
+STEP 1 - Find the required clothing asset
+STEP 2 - get the metahuman into metatailor by exporting from ue 5. (naked)
+STEP 3 - import the selected clothing elements and put on the metahuman
+STEP 4 - export the metahuman with clothing
+STEP 5 - open the exported metahuman in Blender and delete the body of the metahuman, and export again
+STEP 6 - import this asset with base metahuman skeleton. and use the required clothing as a skeletal mesh for the metahuman
+
+DONE!
